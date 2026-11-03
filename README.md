@@ -5,7 +5,6 @@
 This project is an end-to-end **Customer Transaction Analysis System** built in Microsoft Excel. It processes raw transactional data, cleanses and filters dynamic subsets, extracts key business metrics, performs what-if scenario analyses, executes statistical regressions, and visualizes sales performance across various dimensions (Product, Region, Category, and Time).
 
 ---
-![Uploading Customer Transaction Analysis Dashboard.png…]()
 
 ## 📁 Workbook Architecture & Sheet Breakdown
 
